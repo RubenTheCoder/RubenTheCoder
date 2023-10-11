@@ -9,7 +9,12 @@
 - 'JavaScript' by CertiPort
 
 ## 📒 My Portfolio
-- The Shunji Railways project
+- The Shunji Railways website.
+- Setting up the GitHub for the Shunji Railways project.
+- Created infinite mining games and city building games on Roblox.
+- Salvaged files using Windows File Recovery.
+- Fixed a broken game installer its .NET files.
+
 
 
 
