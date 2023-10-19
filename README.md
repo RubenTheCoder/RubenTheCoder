@@ -1,5 +1,5 @@
 # About me
-- Im the project manager for the Shunji Railways website project
+- Im the project manager for the Shunji Railways™ website project
 - I'm currently following extra courses webdesign at Rea College
 
 ## ⭐️ My experience
@@ -13,9 +13,9 @@
 - 'JavaScript' by CertiPort
 
 ## 📒 My Portfolio
-- **[2023]** Managing the Shunji Railways website project.
-- **[2023]** Building the Shunji Railways website.
-- **[2023]** Setting up the GitHub for the Shunji Railways website project.
+- **[2023]** Managing the Shunji Railways™ website project.
+- **[2023]** Building the Shunji Railways™ website.
+- **[2023]** Setting up the GitHub for the Shunji Railways™ website project.
 - **[2023]** Salvaged files using Windows File Recovery.
 - **[2020]** Fixed a broken game installer its .NET files.
 - **[2019-2023]** Created infinite mining games and city building games on Roblox.
