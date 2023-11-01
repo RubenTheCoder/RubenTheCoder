@@ -1,7 +1,7 @@
 # About me
 - Im the project manager for the Shunji Railways™ website project
 - Im currently following extra courses webdesign at Rea College
-- Im also following courses on Adobe
+- Im also following courses on Adobe and Figma
 
 ## ⭐️ My experience
 - I have around 10 years of programming experience
