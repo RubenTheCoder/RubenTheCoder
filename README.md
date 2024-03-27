@@ -11,7 +11,9 @@
 - 'Fundamentals of Digital Marketing' by Google
 - 'HTML and CSS' by CertiPort
 - 'HTML5 Application Development' by CertiPort
+- 'Build Responsive Real-World Websites with HTML and CSS' on Udemy
 - 'JavaScript' by CertiPort
+- 'The Complete JavaScript Course 2024: From Zero to Expert!' on Udemy
 
 ## 📒 My Portfolio
 - **[2023]** Managing the Shunji Railways™ website project.
