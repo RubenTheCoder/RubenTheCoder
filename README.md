@@ -22,12 +22,12 @@
 | Software   | Experience         |
 |------------|--------------------|
 | GitHub     | 1 Year             |
-| VS Code    | 1 Year - Certified |
+| VS Code    | 1 Year             |
 
 ## 🔰 My Certificates
 
 | Certificate | Date issued |
-|-------------|----------|
+|-------------|-------------|
 | PHP for Beginners - Become a PHP Master - CMS Project [Udemy] | June 2024 |
 | The Complete JavaScript Course 2024: From Zero to Expert! - [Udemy] | March 2024 |
 | Build Responsive Real-World Websites With HTML And CSS [Udemy] | January 2024 |
