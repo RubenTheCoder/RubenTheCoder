@@ -1,8 +1,7 @@
 # RubenTheCoder
 
 ## 🙂 About me
-- 🖥 I'm a Back-end Programmer
-- 💎 I aim to deliver a High-quality end product
+- 🖥 I don't like GitHub
 
 ## ⭐️ Expertise
 
