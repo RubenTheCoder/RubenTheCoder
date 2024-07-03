@@ -1,7 +1,9 @@
 # RubenTheCoder
 
 ## 🙂 About me
-- 🖥 I don't like GitHub
+- 🖥 I program mostly Back-end code, but can also program Front-end
+- 💎 I aim to deliver a high quality end product
+- 🦑 I don't like GitHub and GitHub doesn't like me
 
 ## ⭐️ Expertise
 
