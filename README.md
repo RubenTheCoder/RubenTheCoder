@@ -2,14 +2,14 @@
 
 # RubenTheCoder
 
-## 🙂 About me
+### 🙂 About me
 - 🖥 I program mostly Back-end code, but can also program Front-end
 - 💎 I aim to deliver a high quality end product
 - 🦑 I don't like GitHub and GitHub doesn't like me
 
-## ⭐️ Expertise
+### ⭐️ Expertise
 
-### Programming languages
+#### Programming languages
 | Language   | Experience         |
 |------------|--------------------|
 | Roblox Lua | 7 Years            |
@@ -21,13 +21,13 @@
 | SQL        | Doing courses      |
 | Python     | Few weeks          |
 
-### Software
+#### Software
 | Software   | Experience         |
 |------------|--------------------|
 | GitHub     | 1 Year             |
 | VS Code    | 1 Year             |
 
-## 🔰 My Certificates
+### 🔰 My Certificates
 
 | Certificate | Date issued |
 |-------------|-------------|
@@ -39,7 +39,7 @@
 | Google Digital Marketing certificate [Google Digital Garage] | May 2023 |
 | HTML and CSS certificate [Certiport] | March 2023 |
 
-## 🏗 My Projects
+### 🏗 My Projects
 
 - Shunji Railways website
     - HTML & CSS
