@@ -1,3 +1,5 @@
+![shunji_banner_small](https://github.com/RubenTheCoder/RubenTheCoder/assets/130549492/ae652365-7cb1-4e35-b35c-8bb8a2e7c178)
+
 # RubenTheCoder
 
 ## 🙂 About me
@@ -36,6 +38,13 @@
 | HTML5 Application Development [Certiport] | Juli 2023 |
 | Google Digital Marketing certificate [Google Digital Garage] | May 2023 |
 | HTML and CSS certificate [Certiport] | March 2023 |
+
+## 🏗 My Projects
+
+- Shunji Railways website
+    - HTML & CSS
+    - JavaScript
+    - PHP & Composer
 
 <!---
 RubenTheCoder/RubenTheCoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
