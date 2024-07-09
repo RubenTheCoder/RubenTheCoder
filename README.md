@@ -5,7 +5,7 @@
 ### 🙂 About me
 - 🖥 I program mostly Back-end code, but can also program Front-end
 - 💎 I aim to deliver a high quality end product
-- 🦑 I'm not the biggest GitHub fan really
+- 🦑 I'm not the biggest GitHub fan, but i can work with issues, pull requests, projects and that kind of thing
 
 ### ⭐️ Expertise
 
@@ -41,7 +41,7 @@
 
 ### 🏗 My Projects
 
-- Shunji Railways website
+- Shunji Railways website - SR.com
     - HTML & CSS
     - JavaScript
     - PHP & Composer
