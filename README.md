@@ -5,7 +5,7 @@
 ### 🙂 About me
 - 🖥 I program mostly Back-end code, but can also program Front-end
 - 💎 I aim to deliver a high quality end product
-- 🦑 I don't like GitHub and GitHub doesn't like me
+- 🦑 I'm not the biggest GitHub fan really
 
 ### ⭐️ Expertise
 
