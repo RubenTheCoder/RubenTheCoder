@@ -41,10 +41,12 @@
 
 ### 🏗 My Projects
 
-- Shunji Railways website - SR.com
-    - HTML & CSS
+- **SR.com** - Shunji Railways website
+    - HTML
     - JavaScript
     - PHP & Composer
+- **CSS Maelzuri** - CSS Framework
+    - CSS
 
 <!---
 RubenTheCoder/RubenTheCoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
